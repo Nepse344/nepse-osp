@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://nepse344.github.io/nepse-hours/sitemap.xml
